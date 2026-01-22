@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m learning Python backend development from scratch<br>Currently working with Django, Flask, REST APIs, and authentication<br>Interested in building real-world backend projects<br>Focused on improving problem-solving and clean code practices
+I’m Fresher Python backend development from scratch<br>Currently working with Django, Flask, REST APIs, and authentication<br>Interested in building real-world backend projects<br>Focused on improving problem-solving and clean code practices
 
 
 ## 🌐 Socials:
